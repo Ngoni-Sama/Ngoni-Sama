@@ -30,7 +30,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics fana
  <a href="https://Ngoni-Sama.github.io/breakout-game/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fbreakout-game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BREAKOUT+GAME+HITS&edge_flat=false"/></a>
 </p>	
 
-Visit my site: <https://Ngoni-Sama.github.io>
+Visit my site: <https://ngoni-sama.github.io/Ngoni-Sama/>
  projects:      <https://mypocketlabs.herokuapp.com> 
 projects:     
                <https://h-globin.co.zw>
