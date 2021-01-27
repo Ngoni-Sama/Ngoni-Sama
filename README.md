@@ -31,6 +31,10 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics fana
 </p>	
 
 Visit my site: <https://Ngoni-Sama.github.io>
+projects:      <https://mypocketlabs.herokuapp.com>
+               <https://h-globin.co.zw>
+               
+               
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ngoni-Sama&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
