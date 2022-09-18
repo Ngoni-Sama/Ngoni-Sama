@@ -31,6 +31,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics fana
 </p>	
 
 Visit my site: <https://ngoni-sama.github.io/Ngoni-Sama/>
+LinkedIn: <https://www.linkedin.com/in/ngonidzashe-maphosa-737078138/>
  projects:      <https://mypocketlabs.herokuapp.com> 
 projects:     
                <https://h-globin.co.zw>
