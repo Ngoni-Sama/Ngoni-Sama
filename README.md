@@ -16,7 +16,7 @@
 
 💬 Ask me about **Flutter, Node.js, React, Firebase... or anything [here](https://github.com/ngoni-sama/ngoni-sama/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Shinigami Love Apples**
 
  </div>
  
