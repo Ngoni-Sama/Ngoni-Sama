@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <title>Ngonidzashe Maphosa, Lead Software Developer</title>
+  <style>
+    .fade { opacity: 0; animation: in .8s ease-out forwards; }
+    .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s } .d4 { animation-delay: .85s }
+    @keyframes in { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1 } }
+  </style>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="48" y="38" width="64" height="5" rx="2.5" fill="#D97757"/>
+  <rect x="116" y="38" width="64" height="5" rx="2.5" fill="#3B82F6"/>
+  <rect x="184" y="38" width="64" height="5" rx="2.5" fill="#16A34A"/>
+  <g class="fade d1"><text x="48" y="96" font-size="44" font-weight="800" fill="#e6edf3" letter-spacing=".5">NGONIDZASHE MAPHOSA</text></g>
+  <g class="fade d2"><text x="48" y="134" font-size="21" font-weight="600" fill="#4db0f2">Lead Software Developer at Elula</text>
+     <text x="48" y="164" font-size="17" fill="#9da7b3">Harare, Zimbabwe · I build products end to end: backends, AI features, apps and the cloud they run on</text></g>
+  <g class="fade d3"><rect x="48" y="196" width="92" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="94" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">AI agents</text><rect x="147.8" y="196" width="108" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="202" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">MCP servers</text><rect x="264.0" y="196" width="84" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="306" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">LLM apps</text><rect x="355.6" y="196" width="75" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="393" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">Laravel</text><rect x="439.0" y="196" width="67" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="473" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">Python</text><rect x="514.2" y="196" width="59" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="544" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">React</text><rect x="581.2" y="196" width="51" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="607" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">.NET</text><rect x="640.0" y="196" width="100" height="28" rx="6" fill="#1f2630" stroke="#30363d"/><text x="690" y="215" text-anchor="middle" font-size="13.5" font-weight="600" fill="#e6edf3">Cloudflare</text></g>
+  <g class="fade d4"><text x="48" y="262" font-size="14" fill="#9da7b3">BSc Hons Computer Science, NUST · UNICEF Generation Unlimited national winner · 1st place, BancABC fintech hackathon</text></g>
+  <line x1="842" y1="40" x2="842" y2="260" stroke="#30363d"/>
+  
+  <g>
+    <circle cx="925" cy="128" r="46" fill="none" stroke="#2d333b" stroke-width="7"/>
+    <circle cx="925" cy="128" r="46" fill="none" stroke="#4db0f2" stroke-width="7" stroke-linecap="round"
+            stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 925 128)">
+      <animate attributeName="stroke-dashoffset" from="289.0" to="0.0" dur="1.6s" begin="0.3s" fill="freeze"
+               calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+    </circle>
+    <text x="925" y="135" text-anchor="middle" font-size="21" font-weight="700" fill="#4db0f2">6+</text>
+    <text x="925" y="200" text-anchor="middle" font-size="12.5" font-weight="700" fill="#9da7b3" letter-spacing="1">PRODUCTS SHIPPED</text>
+  </g>
+  
+  <g>
+    <circle cx="1075" cy="128" r="46" fill="none" stroke="#2d333b" stroke-width="7"/>
+    <circle cx="1075" cy="128" r="46" fill="none" stroke="#D97757" stroke-width="7" stroke-linecap="round"
+            stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 1075 128)">
+      <animate attributeName="stroke-dashoffset" from="289.0" to="40.5" dur="1.6s" begin="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+    </circle>
+    <text x="1075" y="135" text-anchor="middle" font-size="21" font-weight="700" fill="#D97757">AI</text>
+    <text x="1075" y="200" text-anchor="middle" font-size="12.5" font-weight="700" fill="#9da7b3" letter-spacing="1">AGENTS &amp; MCP</text>
+  </g>
+</svg>

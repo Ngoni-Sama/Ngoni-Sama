@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="196" viewBox="0 0 580 196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <title>My Pocket Lab</title>
+  <rect x="1" y="1" width="578" height="194" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="24" y="22" width="532" height="4" rx="2" fill="#CA8A04"/>
+  <text x="24" y="64" font-size="22" font-weight="800" fill="#1f2328" letter-spacing=".3">MY POCKET LAB</text>
+  <rect x="423" y="44" width="133" height="26" rx="13" fill="none" stroke="#CA8A04" stroke-width="1.5"/>
+  <circle cx="436" cy="57" r="4" fill="#CA8A04"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="498" y="61.5" text-anchor="middle" font-size="11.5" font-weight="700" fill="#CA8A04" letter-spacing=".4">AWARD WINNER</text>
+  <text x="24" y="98" font-size="14.5" fill="#57606a">3D virtual chemistry lab for students without a physical lab.</text><text x="24" y="120" font-size="14.5" fill="#57606a">UNICEF Generation Unlimited national winner.</text>
+  <rect x="24" y="150" width="30" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="39" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">3D</text><rect x="60.4" y="150" width="52" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="86" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">WebGL</text><rect x="118.4" y="150" width="81" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="159" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">Education</text>
+</svg>

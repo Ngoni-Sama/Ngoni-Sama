@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="196" viewBox="0 0 580 196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <title>MoLeads</title>
+  <rect x="1" y="1" width="578" height="194" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="24" y="22" width="532" height="4" rx="2" fill="#3B82F6"/>
+  <text x="24" y="64" font-size="22" font-weight="800" fill="#1f2328" letter-spacing=".3">MOLEADS</text>
+  <rect x="486" y="44" width="70" height="26" rx="13" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+  <circle cx="499" cy="57" r="4" fill="#3B82F6"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="529" y="61.5" text-anchor="middle" font-size="11.5" font-weight="700" fill="#3B82F6" letter-spacing=".4">LIVE</text>
+  <text x="24" y="98" font-size="14.5" fill="#57606a">Zimbabwe&#x27;s local services marketplace: bidding, in-app calls</text><text x="24" y="120" font-size="14.5" fill="#57606a">and chat, verified providers and Pesepay top-ups.</text>
+  <rect x="24" y="150" width="66" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="57" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">Next.js</text><rect x="96.4" y="150" width="52" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="122" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">MySQL</text><rect x="154.4" y="150" width="59" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="184" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">WebRTC</text><rect x="219.60000000000002" y="150" width="66" height="24" rx="5" fill="#eef1f5" stroke="#d0d7de"/><text x="253" y="166.5" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">Pesepay</text>
+</svg>
