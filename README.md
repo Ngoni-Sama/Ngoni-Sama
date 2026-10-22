@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Ngonidzashe Maphosa, Lead Software Developer at Elula. AI agents, MCP servers, LLM apps, Laravel, Python, React, .NET and Cloudflare." src="assets/banner-light.svg" width="100%">
+  <img alt="Ngonidzashe Maphosa, Lead Software Developer at . AI agents, MCP servers, LLM apps, Laravel, Python, React, .NET and Cloudflare." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Right now
 
-- **Lead Software Developer at Elula.** I lead backend work on a multi-tenant SaaS platform (Laravel, PostgreSQL, Auth0 SSO) and build AI agents and MCP servers on Cloudflare Workers: vector search over documents, LLM summaries, and integrations with the tools teams already use.
+- **Lead Software Developer .** I lead backend work on a multi-tenant SaaS platform (Laravel, PostgreSQL, Auth0 SSO) and build AI agents and MCP servers on Cloudflare Workers: vector search over documents, LLM summaries, and integrations with the tools teams already use.
 - **Shipping my own products** on the side, listed below, from desktop apps to Android apps on Google Play.
 - **Security-minded.** I led our OWASP-driven hardening (A-grade security headers) and have spent hundreds of hours in hands-on penetration-testing labs and CTFs.
 
